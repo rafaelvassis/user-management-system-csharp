@@ -120,8 +120,8 @@ dotnet --version
 ### Clonar o repositório
 
 ```bash
-git clone https://github.com/rafaelvassis/csharp-user-management-console.git
-cd csharp-user-management-console
+git clone https://github.com/rafaelvassis/user-management-system-csharp.git
+cd user-management-system-csharp
 ```
 
 ---
@@ -137,7 +137,7 @@ dotnet restore
 ### Executar a aplicação
 
 ```bash
-dotnet run --project user-management-system-csharp
+dotnet run
 ```
 
 para iniciar a aplicação.
