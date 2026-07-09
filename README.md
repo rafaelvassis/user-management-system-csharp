@@ -38,7 +38,7 @@ Aplicação de console desenvolvida em **C#** para gerenciamento de usuários, c
 ```bash
 git clone https://github.com/rafaelvassis/user-management-system-csharp.git
 
-cd user-management-system-csharp
+cd user-management-system-csharp/user-management-system-csharp
 
 dotnet restore
 
